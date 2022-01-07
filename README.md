@@ -1,1 +1,1 @@
-This is the first file in my first repository for Holberton school 
+6This is the first file in my first repository for Holberton school 
